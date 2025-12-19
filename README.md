@@ -1,13 +1,8 @@
-# ESPHome Project Template
+# Remote DHT11 for home-assistant using esphome
 
-This repo serves as a template for creating a new ESPHome project.
+The remote DHT11 project is an ESPHome/Home-Assistant integration to record temperature and humidity readings.
 
-It includes a GitHub workflow that will automatically build the configuration(s) and then deploys a simple 
-website via GitHub pages that utilises [ESP Web Tools](https://esphome.github.io/esp-web-tools/) for users to 
-easily install your project onto their device.
+It includes all of the details to wire the components and includes a 3D-printed case to hold the components
 
 ## Instructions
 
-1. Use this repo template to [generate](https://github.com/esphome/esphome-project-template/generate) your own repository.
-2. Clone your new repository.
-3. Follow the checklist created as an issue in your new repository.
