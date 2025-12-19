@@ -14,11 +14,10 @@ jobs:
     with:
       #### Modify below here to match your project ####
       files: |
-        dht11-esp32-nodemcu-32s.factory.yaml
-        dht11-esp32-s3.factory.yaml
-        dht11-esp32-c6.factory.yaml
-        dht11-esp32-c3.factory.yaml
         dht11-esp32.factory.yaml
+        dht11-esp32-c3.factory.yaml
+        dht11-esp32-c6.factory.yaml
+        dht11-esp32-s3.factory.yaml
       esphome-version: 2025.12.0
       combined-name: acz.dht11
       #### Modify above here to match your project ####
