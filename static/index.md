@@ -4,7 +4,7 @@ ha-esphome-dht11 is a project to allow me to scatter remote temperature and humi
 
 # Components
 
-- [An ESP32 DevKit board](https://www.amazon.com/dp/B0DT3RTK9D)
+- [An ESP32 DevKit board](https://www.amazon.com/dp/B0DT3RTK9D) (Consider this nodemcu-32s for the board.)
 - [DHT11 temperature/humidity sensor](https://www.amazon.com/dp/B0DTKB16MD)
 - [4.7k Ohm resistor](https://www.amazon.com/dp/B08FD1XVL6) (Probably best value overall.)
 - [perfboard](https://www.amazon.com/dp/B0DBZ1BXFZ)
