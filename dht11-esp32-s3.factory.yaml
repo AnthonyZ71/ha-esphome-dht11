@@ -6,7 +6,7 @@ esphome:
   # This will allow for project identification,
   # configuration and updates.
   project:
-    name: acz.dht11
+    name: anthonyz71.dht11
     version: dev # This will be replaced by the github workflows with the `release` version
 
 # This should point to the public location of the yaml file that will be adopted.
@@ -33,4 +33,4 @@ ota:
 update:
   - platform: http_request
     name: Firmware
-    source: https://github.com/AnthonyZ71/ha-esphome-dht11/releases/latest/download/acz_dht11.manifest.json
+    source: https://github.com/anthonyz71/ha-esphome-dht11/releases/latest/download/anthonyz71_dht11.manifest.json

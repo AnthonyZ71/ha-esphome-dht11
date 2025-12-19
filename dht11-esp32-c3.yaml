@@ -1,5 +1,5 @@
 esphome:
-  name: acz_dht11
+  name: anthonyz71-dht11
   friendly_name: Remote Temperature/Humidity Sensor
   # Automatically add the mac address to the name
   # so you can use a single firmware for all devices
